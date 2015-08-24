@@ -4,7 +4,7 @@
   
   <head>
     <meta charset="utf-8">
-    <title>This is master branch</title>
+    <title>V1 This is master branch</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Le styles -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
