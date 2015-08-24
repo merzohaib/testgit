@@ -4,7 +4,11 @@
   
   <head>
     <meta charset="utf-8">
+<<<<<<< HEAD
     <title>V1 This is master branch 2</title>
+=======
+    <title>This is master branch</title>
+>>>>>>> parent of 4bbfac1... v1 release
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Le styles -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
