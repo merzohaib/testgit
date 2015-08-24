@@ -4,7 +4,7 @@
   
   <head>
     <meta charset="utf-8">
-    <title>V2 Meer This is master branch 2</title>
+    <title>V2 Team meber This is master branch 2</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Le styles -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
